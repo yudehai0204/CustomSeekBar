@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <!--商品详情竞拍模式主颜色-->
+    <color name="classify_item_auction">#fea235</color>
+    <!--商品详情随机模式主颜色-->
+    <color name="classify_item_random">#f55e4d</color>
+    <!--商品自主随机模式主颜色-->
+    <color name="classify_item_auto">#53caaa</color>
+    <!--竞拍Dialog默认-->
+    <color name="f2f2f2">#f2f2f2</color>
+
+    <!--深红-->
+    <color name="dark_orange">#930000</color>
+    <!--深蓝-->
+    <color name="dark_blue">#007979</color>
+    <color name="dark_yellow">#D26900</color>
+
+    <!--seekbar-->
+    <color name="aty_auction_will">#e8e8e8</color>
+</resources>
